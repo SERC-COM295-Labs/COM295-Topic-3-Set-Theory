@@ -2,6 +2,9 @@
 
 Coding exercises covering Topic 3: Set Theory
 
+> [!IMPORTANT]
+> Do not use the `set` data type or any built-in set methods for any of these exercises. That would be too easy.
+
 ## Exercise 1 - Unique Values
 
 In the `1-unique.py` file, write a function called `unique_values()` that removes all duplicates from an arbitrary list and returns a new list.
